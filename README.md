@@ -8,7 +8,7 @@
 
 ---
 
-### `makeRollingData_new.py`  
+### `makeRollingData.py`  
 - **Generates rolling behavior probability plots from sensor data**
   - Reads BMAD accelerometer data 
   - Applies time padding and smoothing for visualization  
