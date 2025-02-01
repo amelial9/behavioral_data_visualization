@@ -2,9 +2,9 @@
 
 
 ## Features  
-✅ Extracts and processes behavioral data from BMAD sensor recordings  
-✅ Synchronizes raw video with sensor data timestamps 
-✅ Generates final processed video for research analysis  
+✅ Extracts and processes behavioral data from BMAD sensor recordings\
+✅ Synchronizes raw video with sensor data timestamps\
+✅ Generates final processed video for research analysis
 
 ---
 
